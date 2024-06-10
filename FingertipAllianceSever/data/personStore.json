@@ -1,0 +1,25 @@
+{
+    "status":200,
+    "data":[
+        {
+            "image":"http://iwenwiki.com/FingertipAlliance/images/p1.png",
+            "name":"王素华",
+            "desc":"美甲师"
+        },
+        {
+            "image":"http://iwenwiki.com/FingertipAlliance/images/p2.png",
+            "name":"李美丽",
+            "desc":"美甲师"
+        },
+        {
+            "image":"http://iwenwiki.com/FingertipAlliance/images/p3.png",
+            "name":"张漂亮",
+            "desc":"美甲师"
+        },
+        {
+            "image":"http://iwenwiki.com/FingertipAlliance/images/p4.png",
+            "name":"赵好看",
+            "desc":"美甲师"
+        }
+    ]
+}

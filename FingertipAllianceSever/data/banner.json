@@ -1,0 +1,20 @@
+{
+    "status":200,
+    "data":[
+        {
+            "image":"http://iwenwiki.com/FingertipAlliance/images/banner1.jpg",
+            "title":"养生从我开始，从不懈怠",
+            "url":"http://iwenwiki.com"
+        },
+        {
+            "image":"http://iwenwiki.com/FingertipAlliance/images/banner2.jpg",
+            "title":"养生从我开始，从不懈怠",
+            "url":"http://iwenwiki.com"
+        },
+        {
+            "image":"http://iwenwiki.com/FingertipAlliance/images/banner3.jpg",
+            "title":"养生从我开始，从不懈怠",
+            "url":"http://iwenwiki.com"
+        }
+    ]
+}
